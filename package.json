@@ -1,16 +1,16 @@
 {
-  "name": "PL-BOT",
-  "version": "2.8.4-TINY",
+  "name": "Tredict Invictus",
+  "version": "Svip",
   "description": "",
-  "main": "dist/1ab6d9b8bf153ea0.js",
+  "main": "node Crackampas.js",
   "scripts": {
-    "start": "node dist/1ab6d9b8bf153ea0.js"
+    "start": "node Crackampas.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "@whiskeysockets/baileys": "github:Bealxvasion/TredictBaileys",
     "axios": "^1.7.9",
     "canvas": "^3.1.0",
     "chalk": "^4.1.2",
